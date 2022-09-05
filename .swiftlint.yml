@@ -1,0 +1,14 @@
+included:
+    - Sample
+excluded:
+    - Pods
+    - Sample/R.swift/R.generated.swift
+    - Sample/SampleTests
+disabled_rules:
+    - file_length
+    - trailing_whitespace
+    - vertical_whitespace
+    - line_length
+    - trailing_newline
+    - unused_optional_binding
+    - unused_closure_parameter

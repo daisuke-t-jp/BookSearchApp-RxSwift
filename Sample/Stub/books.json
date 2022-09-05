@@ -1,0 +1,98 @@
+{
+    "resultCount": 3,
+    "results": [
+        {
+            "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Publication71/v4/25/60/73/2560737d-f927-940c-8850-9ed71ef0bf7a/1679070800000000000X.jpg/60x60bb.jpg",
+            "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Publication71/v4/25/60/73/2560737d-f927-940c-8850-9ed71ef0bf7a/1679070800000000000X.jpg/100x100bb.jpg",
+            "artistViewUrl": "https://books.apple.com/jp/artist/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9/31469590?uo=4",
+            "trackCensoredName": "女のいない男たち",
+            "fileSizeBytes": 801522,
+            "formattedPrice": "¥700",
+            "trackViewUrl": "https://books.apple.com/jp/book/%E5%A5%B3%E3%81%AE%E3%81%84%E3%81%AA%E3%81%84%E7%94%B7%E3%81%9F%E3%81%A1/id1159557360?uo=4",
+            "artistIds": [
+                31469590
+            ],
+            "description": "舞台俳優・家福をさいなみ続ける亡き妻の記憶。彼女はなぜあの男と関係したのかを追う「ドライブ・マイ・カー」。妻に去られた男は会社を辞めバーを始めたが、ある時を境に店を怪しい気配が包み謎に追いかけられる「木野」。封印されていた記憶の数々を解くには今しかない。見慣れたはずのこの世界に潜む秘密を探る6つの物語。村上春樹の最新短篇集。",
+            "genreIds": [
+                "9031",
+                "38"
+            ],
+            "currency": "JPY",
+            "releaseDate": "2016-10-07T07:00:00Z",
+            "kind": "ebook",
+            "artistId": 31469590,
+            "artistName": "村上春樹",
+            "genres": [
+                "小説／文学",
+                "ブック"
+            ],
+            "price": 700,
+            "trackId": 1159557360,
+            "trackName": "女のいない男たち",
+            "averageUserRating": 3.5,
+            "userRatingCount": 219
+        },
+        {
+            "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication30/v4/e0/7c/10/e07c1093-982d-63b3-7e82-2d9c3656841c/BT000037820400100101900209.jpg/60x60bb.jpg",
+            "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication30/v4/e0/7c/10/e07c1093-982d-63b3-7e82-2d9c3656841c/BT000037820400100101900209.jpg/100x100bb.jpg",
+            "artistViewUrl": "https://books.apple.com/jp/artist/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9/31469590?uo=4",
+            "trackCensoredName": "風の歌を聴け",
+            "fileSizeBytes": 477674,
+            "formattedPrice": "¥500",
+            "trackViewUrl": "https://books.apple.com/jp/book/%E9%A2%A8%E3%81%AE%E6%AD%8C%E3%82%92%E8%81%B4%E3%81%91/id1117746090?uo=4",
+            "artistIds": [
+                31469590
+            ],
+            "description": "「あらゆるものは通り過ぎる。誰にもそれを捉えることはできない。僕たちはそんな風に生きている」1970年8月、帰省した海辺の街。大学生の〈僕〉は、行きつけのバーで地元の友人〈鼠〉と語り明かし、女の子と知り合い、そして夏の終わりを迎える。過ぎ去りつつある青春の残照を鋭敏にとらえ群像新人賞を受賞した、村上春樹のデビュー作にして「初期三部作」第一作。",
+            "genreIds": [
+                "9031",
+                "38"
+            ],
+            "currency": "JPY",
+            "releaseDate": "2004-09-15T07:00:00Z",
+            "kind": "ebook",
+            "artistId": 31469590,
+            "artistName": "村上春樹",
+            "genres": [
+                "小説／文学",
+                "ブック"
+            ],
+            "price": 500,
+            "trackId": 1117746090,
+            "trackName": "風の歌を聴け",
+            "averageUserRating": 4,
+            "userRatingCount": 233
+        },
+        {
+            "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Publication19/v4/ee/7c/23/ee7c23da-d7ef-4164-7c8b-782c6627941d/mzm.dbbqnypk.jpg/60x60bb.jpg",
+            "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Publication19/v4/ee/7c/23/ee7c23da-d7ef-4164-7c8b-782c6627941d/mzm.dbbqnypk.jpg/100x100bb.jpg",
+            "artistViewUrl": "https://books.apple.com/jp/artist/%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9/31469590?uo=4",
+            "trackCensoredName": "色彩を持たない多崎つくると、彼の巡礼の年",
+            "fileSizeBytes": 979303,
+            "formattedPrice": "¥780",
+            "trackViewUrl": "https://books.apple.com/jp/book/%E8%89%B2%E5%BD%A9%E3%82%92%E6%8C%81%E3%81%9F%E3%81%AA%E3%81%84%E5%A4%9A%E5%B4%8E%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%A8-%E5%BD%BC%E3%81%AE%E5%B7%A1%E7%A4%BC%E3%81%AE%E5%B9%B4/id1054271514?uo=4",
+            "artistIds": [
+                31469590
+            ],
+            "description": "多崎つくる、鉄道の駅をつくるのが仕事。名古屋での高校時代、四人の男女の親友と完璧な調和を成す関係を結んでいたが、大学時代のある日突然、四人から絶縁を申し渡された。<br />\n何の理由も告げられずに——。<br />\n死の淵を一時さ迷い、漂うように生きてきたつくるは、新しい年上の恋人・沙羅に促され、あの時なにが起きたのか探り始めるのだった。全米第一位にも輝いたベストセラー!",
+            "genreIds": [
+                "9031",
+                "38"
+            ],
+            "currency": "JPY",
+            "releaseDate": "2015-12-04T08:00:00Z",
+            "kind": "ebook",
+            "artistId": 31469590,
+            "artistName": "村上春樹",
+            "genres": [
+                "小説／文学",
+                "ブック"
+            ],
+            "price": 780,
+            "trackId": 1054271514,
+            "trackName": "色彩を持たない多崎つくると、彼の巡礼の年",
+            "averageUserRating": 4,
+            "userRatingCount": 213
+        }
+    ]
+}
