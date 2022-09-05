@@ -315,6 +315,7 @@
 		};
 		7E0E997028C3BA9200D59DB2 /* R.swift */ = {
 			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
 			buildActionMask = 2147483647;
 			files = (
 			);
@@ -326,7 +327,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$PODS_ROOT/R.swift/rswift\" generate \"$SRCROOT/R.generated.swift",
+				$SRCROOT/R.generated.swift,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
